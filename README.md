@@ -1,2 +1,2 @@
 # PROJETO+maisMULHER
-Um projeto desenvolvido por mim, para ajudar mulheres que sofrem violência domestica
+Um projeto protótipo desenvolvido , para ajudar mulheres que sofrem violência domestica, que a idéia inspire outras mulheres programadoras a lutar contra essa violência.
